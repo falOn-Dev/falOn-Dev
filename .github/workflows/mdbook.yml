@@ -45,7 +45,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./book/book
+          path: ./project-documentation/book
 
   # Deployment job
   deploy:
