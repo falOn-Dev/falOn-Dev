@@ -14,6 +14,8 @@ I'm a teenager with a passion for robotics, particularly in the field of control
 - 📱 **Kotlin**
 - ⚙️ **Control Systems**
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Tatiman-Dev)
+
 ## Interests
 
 - **Robotics**: My primary interest lies in robotics, with a special focus on control systems. I enjoy designing and implementing algorithms that help robots navigate and perform tasks autonomously.
