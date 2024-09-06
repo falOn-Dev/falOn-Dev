@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a teenager with a passion for robotics, particularly in the field of control systems. Operating out of Maryland, I am currently the Software Development Lead for FRC Team 2537. In addition to my robotics endeavors, I am homeschooled and actively working towards an Associate's degree in Computer Science.
+I'm a teen developer with a passion for robotics, particularly in the field of control systems. Operating out of Maryland, I am currently the Software Development Lead for FRC Team 2537. In addition to my robotics endeavors, I am homeschooled and actively working towards an Associate's degree in Computer Science.
 
 ## Skills
 
