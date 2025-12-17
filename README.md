@@ -33,7 +33,7 @@ I'm a teen developer with a passion for robotics, particularly in the field of c
 
 ## Contact Me
 
-Feel free to reach out to me via [My Email](mailto:falon@team2537.com).
+Feel free to reach out to me via [My Email](mailto:contact@falon.dev).
 
 ---
 
