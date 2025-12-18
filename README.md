@@ -24,7 +24,7 @@ I'm a teen developer with a passion for robotics, particularly in the field of c
 ## Current Projects
 
 - **FRC Team 2537**: Leading the software development team to create robust and efficient code for our competition robots.
-- **My Blog**: Running a blog at [this link](https://falon-dev.github.io/) that contains my musings, thoughts, and reports.
+- **My Blog**: Running a blog at [this link](https://blog.falon.dev/) that contains my musings, thoughts, and reports.
 
 ## Education
 
